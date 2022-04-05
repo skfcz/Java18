@@ -1,3 +1,0 @@
-JMH S 38 de.groygroy.java18.VectorAPI.BenchMark S 65 de.groygroy.java18.jmh_generated.VectorAPI_BenchMark_init_jmhTest S 4 init S 10 Throughput E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E E E E 
-JMH S 38 de.groygroy.java18.VectorAPI.BenchMark S 69 de.groygroy.java18.jmh_generated.VectorAPI_BenchMark_vecmath1_jmhTest S 8 vecmath1 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
-JMH S 38 de.groygroy.java18.VectorAPI.BenchMark S 69 de.groygroy.java18.jmh_generated.VectorAPI_BenchMark_vecmath2_jmhTest S 8 vecmath2 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
